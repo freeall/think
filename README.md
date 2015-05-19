@@ -1,15 +1,17 @@
 # think
 
-Think about it. Then stop. Don't think.
+A small puzzle game
 
 ```
-npm install think
+$ npm install -g think
 ```
 
 ## Usage
 
-``` js
-var think = require('think');
+Just run it
+
+``` 
+$ think
 ```
 
 ## License
