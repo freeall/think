@@ -1,6 +1,6 @@
 # think
 
-WIP - nothing to see here
+Think about it. Then stop. Don't think.
 
 ```
 npm install think
